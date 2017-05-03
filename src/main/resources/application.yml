@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: aws
+
+server:
+  port: 8080
+
+cloud:
+  aws:
+    region:
+      static: eu-west-1
+
+logging.level.com.example: DEBUG
