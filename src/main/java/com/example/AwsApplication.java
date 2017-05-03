@@ -22,6 +22,10 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 
+/**
+ *
+ * @author Anders Clausen
+ */
 @SpringBootApplication
 @RestController
 public class AwsApplication {
